@@ -1,5 +1,6 @@
-echo "Enter directory name/path"
-read dir
+#!/bin/bash
+
+read -p "Enter the directory name/path: " dir
 
 if [ -d "$dir" ]
 then
