@@ -1,0 +1,20 @@
+# April 5th Midnight
+0 0 5 4 *
+
+# 5th of January, June and November if Thursday
+0 0 5 1,6,11 4
+
+# At 05 and 27 minutes of 9,10,11 hours every day
+5,27 9-11 * * *
+
+# 34 minutes of 9th hour on 15th August
+34 9 15 8 *
+
+# Every midnight
+0 0 * * *
+
+# Every Saturday 11:59 PM
+59 23 * * 6
+
+# After every reboot
+@reboot /home/ec2-user/startup.sh
