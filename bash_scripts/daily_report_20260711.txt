@@ -1,0 +1,68 @@
+====================================
+       DAILY SYSTEM REPORT
+====================================
+
+Date & Time:
+Sat Jul 11 05:56:26 UTC 2026
+
+Hostname:
+ip-172-31-2-91.ap-south-2.compute.internal
+
+IP Address:
+172.31.2.91 
+
+Logged-in Users:
+ec2-user pts/0        2026-07-11 03:38 (103.160.27.151)
+ec2-user pts/1        2026-07-11 04:33 (103.160.27.151)
+ec2-user pts/2        2026-07-11 04:52 (103.160.27.151)
+
+Disk Usage:
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          879M     0  879M   0% /dev
+tmpfs             921M     0  921M   0% /dev/shm
+tmpfs             369M  424K  368M   1% /run
+efivarfs          128K  2.6K  126K   3% /sys/firmware/efi/efivars
+/dev/nvme0n1p1    8.0G  2.3G  5.7G  29% /
+tmpfs             921M   14M  907M   2% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.6M  14% /boot/efi
+tmpfs             185M     0  185M   0% /run/user/1000
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           1.8Gi       225Mi       818Mi        14Mi       797Mi       1.3Gi
+Swap:             0B          0B          0B
+
+CPU Load:
+ 05:56:26 up 1 day, 12:16,  3 users,  load average: 0.00, 0.00, 0.00
+
+Running Services:
+  UNIT                       LOAD   ACTIVE SUB     DESCRIPTION
+  acpid.service              loaded active running ACPI Event Daemon
+  amazon-ssm-agent.service   loaded active running amazon-ssm-agent
+  atd.service                loaded active running Deferred execution scheduler
+  auditd.service             loaded active running Security Auditing Service
+  chronyd.service            loaded active running NTP client/server
+  crond.service              loaded active running Command Scheduler
+  dbus-broker.service        loaded active running D-Bus System Message Bus
+  getty@tty1.service         loaded active running Getty on tty1
+  gssproxy.service           loaded active running GSSAPI Proxy Daemon
+  irqbalance.service         loaded active running irqbalance daemon
+  libstoragemgmt.service     loaded active running libstoragemgmt plug-in server daemon
+  serial-getty@ttyS0.service loaded active running Serial Getty on ttyS0
+  sshd.service               loaded active running OpenSSH server daemon
+  systemd-homed.service      loaded active running Home Area Manager
+  systemd-journald.service   loaded active running Journal Service
+  systemd-logind.service     loaded active running User Login Management
+  systemd-networkd.service   loaded active running Network Configuration
+  systemd-resolved.service   loaded active running Network Name Resolution
+  systemd-udevd.service      loaded active running Rule-based Manager for Device Events and Files
+  systemd-userdbd.service    loaded active running User Database Manager
+  user@1000.service          loaded active running User Manager for UID 1000
+
+LOAD   = Reflects whether the unit definition was properly loaded.
+ACTIVE = The high-level unit activation state, i.e. generalization of SUB.
+SUB    = The low-level unit activation state, values depend on unit type.
+21 loaded units listed.
+
+System Uptime:
+up 1 day, 12 hours, 16 minutes
