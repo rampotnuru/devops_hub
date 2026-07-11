@@ -1,0 +1,29 @@
+==================================
+      SYSTEM HEALTH REPORT        
+==================================
+
+Hostname:
+ip-172-31-2-91.ap-south-2.compute.internal
+
+Uptime:
+ 04:05:23 up 1 day, 10:25,  1 user,  load average: 0.00, 0.00, 0.00
+
+Disk Usage:
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          879M     0  879M   0% /dev
+tmpfs             921M     0  921M   0% /dev/shm
+tmpfs             369M  408K  368M   1% /run
+efivarfs          128K  2.6K  126K   3% /sys/firmware/efi/efivars
+/dev/nvme0n1p1    8.0G  2.3G  5.7G  29% /
+tmpfs             921M   14M  907M   2% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.6M  14% /boot/efi
+tmpfs             185M     0  185M   0% /run/user/1000
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           1.8Gi       162Mi       972Mi        14Mi       706Mi       1.5Gi
+Swap:             0B          0B          0B
+
+CPU Load:
+ 0.00, 0.00, 0.00
+
