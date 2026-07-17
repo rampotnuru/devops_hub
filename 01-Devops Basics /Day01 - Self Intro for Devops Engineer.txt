@@ -1,0 +1,23 @@
+Hello team, This is RAM. 
+I've been working as a devops engineer for the past 5 years in ACCENTURE.
+
+Currently I've been working for the client HomeDepot where our team is managing 2 applications.
+
+As a devops engineer I make sure the environment is clean and running, I have worked on multiple devops tools like, git, github, jenkins, ansible, docker, terraform,
+kubernates for orchestration, aws cloud, on-prem servers and data centers.
+
+in AWS, I have worked on various services like s3bucket, ec2, cloudtrail, cloudwatch, application load balancer, route53 , api gateway, vpc, elastic container service and
+elastic container registry, and elaastic kubernates engineering.
+
+Coming to my roles and resposibilities....
+
+We work with development teams for every release to make sure everything is aligned properly, our team is responsible for UAT AND PROD environments.
+We have weekly releases and flex releases which will heppen for every 2-3 months
+
+If we have any monitoring alerts, I will be working on those alerts
+
+We manage jenkins pipelines and other infrastructures
+
+Every quarter our team works on pre-patching and post-patching activities along with the linux team to make sure the kernals are up to date.
+
+We provide 24/7 support for our clients, if there are high priority tickets we receive pagerduty notifications on our mobile and we start working on them! 

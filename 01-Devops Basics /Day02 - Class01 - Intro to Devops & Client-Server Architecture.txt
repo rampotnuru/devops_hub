@@ -1,0 +1,4 @@
+Jira Board --
+1. What is Jira?
+Ans:- Jira is a project management and issue tracking tool which serves as a centralized hub to plan, assign, track and automate project related issues and work.
+It was developed by Atlassian.
